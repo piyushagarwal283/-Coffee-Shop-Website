@@ -15,9 +15,9 @@ This project represents a modern coffee shop landing page with menu details, att
 - JavaScript  
 
 🔗 Live Demo  
-👉 [View Project Here](https://your-username.github.io/Coffee-Shop-Website/)  
+👉 [View Project Here](https://github.com/piyushagarwal283/-Coffee-Shop-Website/tree/main/OneDrive/Desktop/PROJECTS/Coffee%20Website)  
 
 📂 How to Use  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/Coffee-Shop-Website.git
+   git clone https://github.com/piyushagarwal283/-Coffee-Shop-Website/tree/main/OneDrive/Desktop/PROJECTS/Coffee%20Website
